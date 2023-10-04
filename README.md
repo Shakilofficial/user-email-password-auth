@@ -1,5 +1,7 @@
 # React + Vite
 
+-This repository is the User Email, Password manages in Firebase Authentication Related Core Concepts 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
